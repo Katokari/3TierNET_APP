@@ -1,0 +1,9 @@
+C:\Users\xevel\Desktop\Coding\Learning_NET\ContactsMiddleLayer\bin\Debug\ContactsMiddleLayer.dll
+C:\Users\xevel\Desktop\Coding\Learning_NET\ContactsMiddleLayer\bin\Debug\ContactsMiddleLayer.pdb
+C:\Users\xevel\Desktop\Coding\Learning_NET\ContactsMiddleLayer\bin\Debug\ContactsDataAccess.dll
+C:\Users\xevel\Desktop\Coding\Learning_NET\ContactsMiddleLayer\bin\Debug\ContactsDataAccess.pdb
+C:\Users\xevel\Desktop\Coding\Learning_NET\ContactsMiddleLayer\obj\Debug\ContactsMiddleLayer.csproj.AssemblyReference.cache
+C:\Users\xevel\Desktop\Coding\Learning_NET\ContactsMiddleLayer\obj\Debug\ContactsMiddleLayer.csproj.CoreCompileInputs.cache
+C:\Users\xevel\Desktop\Coding\Learning_NET\ContactsMiddleLayer\obj\Debug\Contacts.9E042D2F.Up2Date
+C:\Users\xevel\Desktop\Coding\Learning_NET\ContactsMiddleLayer\obj\Debug\ContactsMiddleLayer.dll
+C:\Users\xevel\Desktop\Coding\Learning_NET\ContactsMiddleLayer\obj\Debug\ContactsMiddleLayer.pdb
