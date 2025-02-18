@@ -1,0 +1,16 @@
+C:\Users\xevel\Desktop\Coding\Learning_NET\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\xevel\Desktop\Coding\Learning_NET\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\xevel\Desktop\Coding\Learning_NET\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\xevel\Desktop\Coding\Learning_NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\xevel\Desktop\Coding\Learning_NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\xevel\Desktop\Coding\Learning_NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\xevel\Desktop\Coding\Learning_NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\xevel\Desktop\Coding\Learning_NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\xevel\Desktop\Coding\Learning_NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\xevel\Desktop\Coding\Learning_NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\xevel\Desktop\Coding\Learning_NET\WindowsFormsApp1\bin\Debug\ContactsMiddleLayer.dll
+C:\Users\xevel\Desktop\Coding\Learning_NET\WindowsFormsApp1\bin\Debug\ContactsDataAccess.dll
+C:\Users\xevel\Desktop\Coding\Learning_NET\WindowsFormsApp1\bin\Debug\ContactsMiddleLayer.pdb
+C:\Users\xevel\Desktop\Coding\Learning_NET\WindowsFormsApp1\bin\Debug\ContactsDataAccess.pdb
+C:\Users\xevel\Desktop\Coding\Learning_NET\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\xevel\Desktop\Coding\Learning_NET\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
