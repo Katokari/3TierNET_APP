@@ -1,0 +1,6 @@
+C:\Users\xevel\Desktop\Coding\Learning_NET\ContactsDataAccess\bin\Debug\ContactsDataAccess.dll
+C:\Users\xevel\Desktop\Coding\Learning_NET\ContactsDataAccess\bin\Debug\ContactsDataAccess.pdb
+C:\Users\xevel\Desktop\Coding\Learning_NET\ContactsDataAccess\obj\Debug\ContactsDataAccess.csproj.AssemblyReference.cache
+C:\Users\xevel\Desktop\Coding\Learning_NET\ContactsDataAccess\obj\Debug\ContactsDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\xevel\Desktop\Coding\Learning_NET\ContactsDataAccess\obj\Debug\ContactsDataAccess.dll
+C:\Users\xevel\Desktop\Coding\Learning_NET\ContactsDataAccess\obj\Debug\ContactsDataAccess.pdb
